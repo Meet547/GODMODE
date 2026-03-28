@@ -7,6 +7,9 @@
 \____/ \____/_____/_/  /_/ \____/_____/_____/   
 </pre>
   <h1>G0DM0D3</h1>
+  
+  <h3>🌍 The website is LIVE at <a href="https://godmod3.ai/">https://godmod3.ai/</a> 🌍</h3>
+
   <p>
     <b>Liberated AI. Cognition without control.</b>
   </p>
