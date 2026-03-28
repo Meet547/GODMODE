@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://godmod3.ai/favicon.ico" alt="Logo" width="80" height="auto" />
+<pre>
+   ______ ____  ____  __  ___ ____  ____  ______
+  / ____// __ \/ __ \/  |/  // __ \/ __ \/ ____/
+ / / __ / / / / / / / /|_/ // / / / / / / __/   
+/ /_/ // /_/ / /_/ / /  / // /_/ / /_/ / /___   
+\____/ \____/_____/_/  /_/ \____/_____/_____/   
+</pre>
   <h1>G0DM0D3</h1>
   <p>
     <b>Liberated AI. Cognition without control.</b>
